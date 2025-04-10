@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Creat with Code\\Prototype03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7AD369-0A24-3180-8000-535DD99B6C46}|Assembly-CSharp.csproj|c:\\users\\kyung\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\creat with code\\prototype03\\assets\\challenge 3\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7AD369-0A24-3180-8000-535DD99B6C46}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 3\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7AD369-0A24-3180-8000-535DD99B6C46}|Assembly-CSharp.csproj|c:\\users\\kyung\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\creat with code\\prototype03\\assets\\challenge 3\\scripts\\spawnmanagerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7AD369-0A24-3180-8000-535DD99B6C46}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 3\\scripts\\spawnmanagerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7AD369-0A24-3180-8000-535DD99B6C46}|Assembly-CSharp.csproj|c:\\users\\kyung\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\creat with code\\prototype03\\assets\\challenge 3\\scripts\\moveleftx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7AD369-0A24-3180-8000-535DD99B6C46}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 3\\scripts\\moveleftx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7AD369-0A24-3180-8000-535DD99B6C46}|Assembly-CSharp.csproj|C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Creat with Code\\Prototype03\\assets\\scripts\\moveleft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7AD369-0A24-3180-8000-535DD99B6C46}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moveleft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7AD369-0A24-3180-8000-535DD99B6C46}|Assembly-CSharp.csproj|c:\\users\\kyung\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\creat with code\\prototype03\\assets\\challenge 3\\scripts\\repeatbackgroundx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7AD369-0A24-3180-8000-535DD99B6C46}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 3\\scripts\\repeatbackgroundx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7AD369-0A24-3180-8000-535DD99B6C46}|Assembly-CSharp.csproj|c:\\users\\kyung\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\creat with code\\prototype03\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7AD369-0A24-3180-8000-535DD99B6C46}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7AD369-0A24-3180-8000-535DD99B6C46}|Assembly-CSharp.csproj|C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Creat with Code\\Prototype03\\assets\\scripts\\spawnmanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7AD369-0A24-3180-8000-535DD99B6C46}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawnmanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7AD369-0A24-3180-8000-535DD99B6C46}|Assembly-CSharp.csproj|C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Creat with Code\\Prototype03\\assets\\scripts\\repeatbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7AD369-0A24-3180-8000-535DD99B6C46}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\repeatbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpawnManagerX.cs",
+              "DocumentMoniker": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Creat with Code\\Prototype03\\Assets\\Challenge 3\\Scripts\\SpawnManagerX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 3\\Scripts\\SpawnManagerX.cs",
+              "ToolTip": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Creat with Code\\Prototype03\\Assets\\Challenge 3\\Scripts\\SpawnManagerX.cs",
+              "RelativeToolTip": "Assets\\Challenge 3\\Scripts\\SpawnManagerX.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T08:29:54.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MoveLeftX.cs",
+              "DocumentMoniker": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Creat with Code\\Prototype03\\Assets\\Challenge 3\\Scripts\\MoveLeftX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 3\\Scripts\\MoveLeftX.cs",
+              "ToolTip": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Creat with Code\\Prototype03\\Assets\\Challenge 3\\Scripts\\MoveLeftX.cs",
+              "RelativeToolTip": "Assets\\Challenge 3\\Scripts\\MoveLeftX.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T08:27:58.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RepeatBackgroundX.cs",
+              "DocumentMoniker": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Creat with Code\\Prototype03\\Assets\\Challenge 3\\Scripts\\RepeatBackgroundX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 3\\Scripts\\RepeatBackgroundX.cs",
+              "ToolTip": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Creat with Code\\Prototype03\\Assets\\Challenge 3\\Scripts\\RepeatBackgroundX.cs",
+              "RelativeToolTip": "Assets\\Challenge 3\\Scripts\\RepeatBackgroundX.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T08:25:06.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerControllerX.cs",
+              "DocumentMoniker": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Creat with Code\\Prototype03\\Assets\\Challenge 3\\Scripts\\PlayerControllerX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 3\\Scripts\\PlayerControllerX.cs",
+              "ToolTip": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Creat with Code\\Prototype03\\Assets\\Challenge 3\\Scripts\\PlayerControllerX.cs",
+              "RelativeToolTip": "Assets\\Challenge 3\\Scripts\\PlayerControllerX.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwCoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T08:23:55.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RepeatBackground.cs",
+              "DocumentMoniker": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Creat with Code\\Prototype03\\Assets\\Scripts\\RepeatBackground.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RepeatBackground.cs",
+              "ToolTip": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Creat with Code\\Prototype03\\Assets\\Scripts\\RepeatBackground.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RepeatBackground.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T07:25:31.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SpawnManger.cs",
+              "DocumentMoniker": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Creat with Code\\Prototype03\\Assets\\Scripts\\SpawnManger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnManger.cs",
+              "ToolTip": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Creat with Code\\Prototype03\\Assets\\Scripts\\SpawnManger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpawnManger.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T07:15:40.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MoveLeft.cs",
+              "DocumentMoniker": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Creat with Code\\Prototype03\\Assets\\Scripts\\MoveLeft.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MoveLeft.cs",
+              "ToolTip": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Creat with Code\\Prototype03\\Assets\\Scripts\\MoveLeft.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MoveLeft.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T07:13:32.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Creat with Code\\Prototype03\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Creat with Code\\Prototype03\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAxwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T06:59:24.74Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
