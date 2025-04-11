@@ -3,11 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Creat with Code\\Prototype04\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B7256D46-AE93-77C5-8D1F-CA14FF2A0AB0}|Assembly-CSharp.csproj|c:\\users\\kyung\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\creat with code\\prototype04\\assets\\challenge 4\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7256D46-AE93-77C5-8D1F-CA14FF2A0AB0}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 4\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B7256D46-AE93-77C5-8D1F-CA14FF2A0AB0}|Assembly-CSharp.csproj|C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Creat with Code\\Prototype04\\assets\\course library\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7256D46-AE93-77C5-8D1F-CA14FF2A0AB0}|Assembly-CSharp.csproj|solutionrelative:assets\\course library\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7256D46-AE93-77C5-8D1F-CA14FF2A0AB0}|Assembly-CSharp.csproj|c:\\users\\kyung\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\creat with code\\prototype04\\assets\\course library\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B7256D46-AE93-77C5-8D1F-CA14FF2A0AB0}|Assembly-CSharp.csproj|c:\\users\\kyung\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\creat with code\\prototype04\\assets\\challenge 4\\scripts\\enemyx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7256D46-AE93-77C5-8D1F-CA14FF2A0AB0}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 4\\scripts\\enemyx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7256D46-AE93-77C5-8D1F-CA14FF2A0AB0}|Assembly-CSharp.csproj|c:\\users\\kyung\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\creat with code\\prototype04\\assets\\challenge 4\\scripts\\spawnmanagerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7256D46-AE93-77C5-8D1F-CA14FF2A0AB0}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 4\\scripts\\spawnmanagerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7256D46-AE93-77C5-8D1F-CA14FF2A0AB0}|Assembly-CSharp.csproj|c:\\users\\kyung\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\creat with code\\prototype04\\assets\\challenge 4\\scripts\\rotatecamerax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7256D46-AE93-77C5-8D1F-CA14FF2A0AB0}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 4\\scripts\\rotatecamerax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7256D46-AE93-77C5-8D1F-CA14FF2A0AB0}|Assembly-CSharp.csproj|C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Creat with Code\\Prototype04\\assets\\course library\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7256D46-AE93-77C5-8D1F-CA14FF2A0AB0}|Assembly-CSharp.csproj|solutionrelative:assets\\course library\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -26,50 +42,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpawnManagerX.cs",
+              "DocumentMoniker": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Creat with Code\\Prototype04\\Assets\\Challenge 4\\Scripts\\SpawnManagerX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 4\\Scripts\\SpawnManagerX.cs",
+              "ToolTip": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Creat with Code\\Prototype04\\Assets\\Challenge 4\\Scripts\\SpawnManagerX.cs",
+              "RelativeToolTip": "Assets\\Challenge 4\\Scripts\\SpawnManagerX.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T06:56:03.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RotateCameraX.cs",
+              "DocumentMoniker": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Creat with Code\\Prototype04\\Assets\\Challenge 4\\Scripts\\RotateCameraX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 4\\Scripts\\RotateCameraX.cs",
+              "ToolTip": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Creat with Code\\Prototype04\\Assets\\Challenge 4\\Scripts\\RotateCameraX.cs",
+              "RelativeToolTip": "Assets\\Challenge 4\\Scripts\\RotateCameraX.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T06:55:57.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "EnemyX.cs",
+              "DocumentMoniker": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Creat with Code\\Prototype04\\Assets\\Challenge 4\\Scripts\\EnemyX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 4\\Scripts\\EnemyX.cs",
+              "ToolTip": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Creat with Code\\Prototype04\\Assets\\Challenge 4\\Scripts\\EnemyX.cs",
+              "RelativeToolTip": "Assets\\Challenge 4\\Scripts\\EnemyX.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T06:47:37.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerControllerX.cs",
+              "DocumentMoniker": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Creat with Code\\Prototype04\\Assets\\Challenge 4\\Scripts\\PlayerControllerX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 4\\Scripts\\PlayerControllerX.cs",
+              "ToolTip": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Creat with Code\\Prototype04\\Assets\\Challenge 4\\Scripts\\PlayerControllerX.cs",
+              "RelativeToolTip": "Assets\\Challenge 4\\Scripts\\PlayerControllerX.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowEAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T06:46:55.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "SpawnManager.cs",
               "DocumentMoniker": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Creat with Code\\Prototype04\\Assets\\Course Library\\Scripts\\SpawnManager.cs",
               "RelativeDocumentMoniker": "Assets\\Course Library\\Scripts\\SpawnManager.cs",
               "ToolTip": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Creat with Code\\Prototype04\\Assets\\Course Library\\Scripts\\SpawnManager.cs",
               "RelativeToolTip": "Assets\\Course Library\\Scripts\\SpawnManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T11:26:10.034Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Enemy.cs",
               "DocumentMoniker": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Creat with Code\\Prototype04\\Assets\\Course Library\\Scripts\\Enemy.cs",
               "RelativeDocumentMoniker": "Assets\\Course Library\\Scripts\\Enemy.cs",
               "ToolTip": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Creat with Code\\Prototype04\\Assets\\Course Library\\Scripts\\Enemy.cs",
               "RelativeToolTip": "Assets\\Course Library\\Scripts\\Enemy.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAowBcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBIAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T11:20:41.464Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Creat with Code\\Prototype04\\Assets\\Course Library\\Scripts\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Course Library\\Scripts\\PlayerController.cs",
               "ToolTip": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Creat with Code\\Prototype04\\Assets\\Course Library\\Scripts\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Course Library\\Scripts\\PlayerController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAmwB0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T11:06:06.287Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "RotateCamera.cs",
               "DocumentMoniker": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Creat with Code\\Prototype04\\Assets\\Course Library\\Scripts\\RotateCamera.cs",
               "RelativeDocumentMoniker": "Assets\\Course Library\\Scripts\\RotateCamera.cs",

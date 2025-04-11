@@ -25,6 +25,8 @@ public class PlayerController : MonoBehaviour
         playerRb.AddForce(focalPint.transform.forward * speed * verticalInput);
 
         powerupIndicator.transform.position = transform.position + new Vector3(0, -0.5f, 0);
+
+        
     }
     void OnTriggerEnter(Collider other)
     {
@@ -52,4 +54,5 @@ public class PlayerController : MonoBehaviour
             enemyRb.AddForce(awayFromPlayer * powerupStrength, ForceMode.Impulse);
         }
     }
+
 }
