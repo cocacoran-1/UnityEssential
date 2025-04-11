@@ -9,8 +9,8 @@ public class PlayerController : MonoBehaviour
     bool isGrounded = true;
     public float jumpForce = 2.5f;
     public float gravityScale = 1f;
-    public float speed = 10f;
-    float yBound = 6f;
+    public float speed = 50f;
+    float zBound = -5f;
     Rigidbody playerRb;
     // Start is called before the first frame update
     void Start()
@@ -47,10 +47,25 @@ public class PlayerController : MonoBehaviour
     }
     void ConstrainPlayerPosition()
     {
-        if (transform.position.y > yBound)
+        if (transform.position.z < zBound)
         {
-            transform.position = new Vector3(transform.position.x, yBound, transform.position.z);
+            transform.position = new Vector3(transform.position.x, transform.position.y, zBound);
             playerRb.velocity = Vector3.zero;
         }
     }
+    void OnCOllisionEnter(Collision collision)
+    {
+        if (collision.gameObject.CompareTag("Enemy"))
+        {
+            Debug.Log("Player has collided with an enemy!");
+        }
+    }
+    void OnTriggerEnter(Collider other)
+    {
+        if (other.CompareTag("Powerup"))
+        {
+            Destroy(other.gameObject);
+        }
+    }
 }
+
