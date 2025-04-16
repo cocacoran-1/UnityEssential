@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Creat with Code\\Prototype05\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3CA3AF55-91AC-6464-CBC8-95BBA19E4B72}|Assembly-CSharp.csproj|C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Creat with Code\\Prototype05\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3CA3AF55-91AC-6464-CBC8-95BBA19E4B72}|Assembly-CSharp.csproj|c:\\users\\kyung\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\creat with code\\prototype05\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3CA3AF55-91AC-6464-CBC8-95BBA19E4B72}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CA3AF55-91AC-6464-CBC8-95BBA19E4B72}|Assembly-CSharp.csproj|c:\\users\\kyung\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\creat with code\\prototype05\\assets\\scripts\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3CA3AF55-91AC-6464-CBC8-95BBA19E4B72}|Assembly-CSharp.csproj|c:\\users\\kyung\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\creat with code\\prototype05\\assets\\scripts\\difficultybutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA3AF55-91AC-6464-CBC8-95BBA19E4B72}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\difficultybutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA3AF55-91AC-6464-CBC8-95BBA19E4B72}|Assembly-CSharp.csproj|C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Creat with Code\\Prototype05\\assets\\scripts\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3CA3AF55-91AC-6464-CBC8-95BBA19E4B72}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DifficultyButton.cs",
+              "DocumentMoniker": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Creat with Code\\Prototype05\\Assets\\Scripts\\DifficultyButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DifficultyButton.cs",
+              "ToolTip": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Creat with Code\\Prototype05\\Assets\\Scripts\\DifficultyButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DifficultyButton.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T10:00:54.301Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,14 +45,14 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
               "ToolTip": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Creat with Code\\Prototype05\\Assets\\Scripts\\GameManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAA8wBgAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAiwDoAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-11T08:21:24.293Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Target.cs",
               "DocumentMoniker": "C:\\Users\\kyung\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Creat with Code\\Prototype05\\Assets\\Scripts\\Target.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Target.cs",
@@ -43,8 +60,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Target.cs",
               "ViewState": "AgIAACUAAAAAAAAAAADgvzwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T08:12:49.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T08:12:49.799Z"
             }
           ]
         }

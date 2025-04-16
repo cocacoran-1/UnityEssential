@@ -1,0 +1,92 @@
+﻿#include "pch-c.h"
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void FollowPlayerX_Start_mE73AEAF1AE3395058DDD44681F9CC519DD2692F6 (void);
+extern void FollowPlayerX_Update_m657B1EB411925E30C5169B39F524D340503E0F26 (void);
+extern void FollowPlayerX__ctor_m95820EBAEB39F06210CD082F86E5B37AFDCB3ECE (void);
+extern void PlayerControllerX_Start_m5BAE410291E1DABAC99D3F233D14AF0AA072A606 (void);
+extern void PlayerControllerX_FixedUpdate_mF6B5972ED4C7FA460F293640E0EF7A5DDE586A23 (void);
+extern void PlayerControllerX__ctor_m3FFA731641AD6FA1CE627820042B7587E98D535A (void);
+extern void Propeller_Start_m403B7B3F268D7F6CE8059F76F5B5730570DA25E1 (void);
+extern void Propeller_Update_mB3F5CF8831F74C16B7C98CF794383CDAB532ACA1 (void);
+extern void Propeller__ctor_m117233E736B2573C48F41BE6D194A3178C07ACBF (void);
+extern void FollowPlayer_LateUpdate_m69B79F77CFC8072526CE0BA2D71179F66AE15B70 (void);
+extern void FollowPlayer__ctor_mFEF642F6D296A2FBA30A01B637B6BD8DD2446114 (void);
+extern void PlayerController_Start_m1D83076E8B136A71051F2F02545EE04947D3A8CF (void);
+extern void PlayerController_FixedUpdate_m6D906D8B13844542B81CC49BA19760F747CEC8C0 (void);
+extern void PlayerController_IsOnGround_m93949E32FDD9D8EA220709AEEDBA2225B70753D4 (void);
+extern void PlayerController__ctor_mDDAB7C7D82E1A5B3E6C197B1AB9D653DFE554F33 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1 (void);
+static Il2CppMethodPointer s_methodPointers[17] = 
+{
+	FollowPlayerX_Start_mE73AEAF1AE3395058DDD44681F9CC519DD2692F6,
+	FollowPlayerX_Update_m657B1EB411925E30C5169B39F524D340503E0F26,
+	FollowPlayerX__ctor_m95820EBAEB39F06210CD082F86E5B37AFDCB3ECE,
+	PlayerControllerX_Start_m5BAE410291E1DABAC99D3F233D14AF0AA072A606,
+	PlayerControllerX_FixedUpdate_mF6B5972ED4C7FA460F293640E0EF7A5DDE586A23,
+	PlayerControllerX__ctor_m3FFA731641AD6FA1CE627820042B7587E98D535A,
+	Propeller_Start_m403B7B3F268D7F6CE8059F76F5B5730570DA25E1,
+	Propeller_Update_mB3F5CF8831F74C16B7C98CF794383CDAB532ACA1,
+	Propeller__ctor_m117233E736B2573C48F41BE6D194A3178C07ACBF,
+	FollowPlayer_LateUpdate_m69B79F77CFC8072526CE0BA2D71179F66AE15B70,
+	FollowPlayer__ctor_mFEF642F6D296A2FBA30A01B637B6BD8DD2446114,
+	PlayerController_Start_m1D83076E8B136A71051F2F02545EE04947D3A8CF,
+	PlayerController_FixedUpdate_m6D906D8B13844542B81CC49BA19760F747CEC8C0,
+	PlayerController_IsOnGround_m93949E32FDD9D8EA220709AEEDBA2225B70753D4,
+	PlayerController__ctor_mDDAB7C7D82E1A5B3E6C197B1AB9D653DFE554F33,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1,
+};
+static const int32_t s_InvokerIndices[17] = 
+{
+	4434,
+	4434,
+	4434,
+	4434,
+	4434,
+	4434,
+	4434,
+	4434,
+	4434,
+	4434,
+	4434,
+	4434,
+	4434,
+	4261,
+	4434,
+	6375,
+	4434,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	17,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};
